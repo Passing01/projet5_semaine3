@@ -7,6 +7,7 @@ group :development do
     gem 'dotenv'
     gem 'nokogiri'
     gem 'launchy'
+    gem 'fileutils'
 end
 
 gem 'pry'
